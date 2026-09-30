@@ -1,0 +1,8 @@
+{
+  "name": "Remix Peshawar Model School - Mardan Campus Portal",
+  "description": "Comprehensive school management system, parent communication, teacher workflow, and student portal for Peshawar Model School – Mardan Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
